@@ -268,3 +268,19 @@ A-Z CODE
 </body>
 </html>
 ```
+---
+pagination change system:
+---
+```css
+.owl-theme .owl-controls .owl-page span {
+    
+    width: 22px;
+    height: 18px;
+    margin: 5px 7px;
+    filter: Alpha(Opacity=50);
+    opacity: 0.5;
+   
+    background: red;
+    border: 2px solid blue;
+}
+```
