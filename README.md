@@ -309,7 +309,5 @@ $(document).ready(function() {
       navigation : true,
       navigationText:	["prev","next"],
   });
-
-```
 });
 ```
