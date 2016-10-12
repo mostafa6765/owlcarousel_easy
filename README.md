@@ -297,3 +297,19 @@ Navigation change
 	right: 0;
 }
 ```
+`add those js file`
+---
+```js
+
+$(document).ready(function() {
+
+  $("#owl-demo").owlCarousel({
+
+    
+      navigation : true,
+      navigationText:	["prev","next"],
+  });
+
+```
+});
+```
