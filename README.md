@@ -10,6 +10,7 @@ owl carousel details more easy just look at a moment. BY Nishi IT Ltd.
 Getting Started
 ---
 [Download owlcarousel_easy](https://www.dropbox.com/s/vhg31wcmvuv0lxj/Nishi%20IT%20Institute%20owl_carousel.zip?dl=0)  [click here](https://www.dropbox.com/s/vhg31wcmvuv0lxj/Nishi%20IT%20Institute%20owl_carousel.zip?dl=0)
+![download-1](https://cloud.githubusercontent.com/assets/17185462/19305690/f21b4186-9093-11e6-9a76-2900dea2bd16.png)
 ---
 `<script type="text/javascript" src="http://cdn.itnishi.com/js/owl.carousel.js"></script>`
 
