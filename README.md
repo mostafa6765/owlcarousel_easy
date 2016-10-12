@@ -284,3 +284,16 @@ pagination change system:
     border: 2px solid blue;
 }
 ```
+---
+Navigation change
+---
+```css
+.owl-prev{
+	position: absolute;
+	left: 0;
+}
+.owl-next{
+	position: absolute;
+	right: 0;
+}
+```
