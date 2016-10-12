@@ -2,13 +2,13 @@
 owl carousel details more easy just look at a moment. BY Nishi IT Ltd.
 welcome here
 -----
-`Welcome to OWL CARAOUSEL`
----
 
 `Welcome to OWL CARAOUSEL`
 ---
 
 Getting Started
+---
+[Download owlcarousel_easy](https://www.dropbox.com/s/vhg31wcmvuv0lxj/Nishi%20IT%20Institute%20owl_carousel.zip?dl=0)
 ---
 `<script type="text/javascript" src="http://cdn.itnishi.com/js/owl.carousel.js"></script>`
 
